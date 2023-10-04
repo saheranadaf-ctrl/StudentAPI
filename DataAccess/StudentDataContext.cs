@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace CreateAPI.DataAccess;
+namespace UpdateAPI.DataAccess;
 
 public partial class StudentDataContext : DbContext
 {
